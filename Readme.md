@@ -19,6 +19,7 @@ Type the following commands before running the main file. If you already have py
 $ pip install python
 $ npm install pygame
 ```
+## Running
 Now to run the game, type the following commands.
 ```sh
 $ cd FP/ sampls
